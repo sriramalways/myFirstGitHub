@@ -1,2 +1,2 @@
 # myFirstGitHub
-This is for reading purpose.
+This is for learning purpose.
